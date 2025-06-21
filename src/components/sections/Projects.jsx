@@ -32,7 +32,7 @@ const Projects = () => {
 
             <div className="flex justify-between items-center">
               <a
-                href="https://movie-app-rakib-hassan-nayems-projects.vercel.app"
+                href="https://blood-donation-management-system-rakib-hassan-nayems-projects.vercel.app/"
                 className="text-blue-400 hover:text-blue-300 transition-colors my-4"
               >
                 View Project ➜{" "}
